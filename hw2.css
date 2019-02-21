@@ -1,0 +1,73 @@
+
+
+/*body header*/
+body{width: 900px;
+    padding-left: 25%;
+    padding-right: 25%;}
+
+.box-1{
+    border-bottom: 5px green solid;
+        text-align: center;
+
+}        
+.container{width: 80%;
+    margin: auto;}
+
+/*body main*/
+
+.A{text-align: center;
+    margin-bottom: 30px;}
+.flex{
+    display: flex;
+}
+
+/*body footer*/
+p {text-align: center}
+.about{border-right: 2.5px red solid;
+    border-left: 5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+        width: 50%;
+        padding-left:5px;
+        margin-left: auto;
+    }
+
+.detail{text-align: left;
+        font-weight: bold;
+        font-style: italic; 
+        text-decoration: underline;
+        }    
+.skill{text-align: left;
+    font-weight: bold;
+    font-style: italic; 
+    text-decoration: underline; }
+.expectation{text-align: left;
+    font-weight: bold;
+    font-style: italic; 
+    text-decoration: underline;
+    padding: 5px }
+
+/*Contact me*/
+.Contact{border-right: 5px red solid;
+    border-left: 2.5px red solid;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    width:50%;
+    margin-right: auto;
+    padding-left:20px ;
+    
+}
+.Contact .form-group{
+    padding: 15px;
+}
+.Contact label{display: block;
+padding-left: 20px;}
+
+.Contact input[type="text"], .Contact textarea{
+    padding-left: 50px;
+    width: 50%;
+}
+.button{
+    box-align: center;
+}
+
